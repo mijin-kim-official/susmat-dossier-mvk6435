@@ -1,4 +1,4 @@
-# Sus-Mat NRT Training Dossier
+# Sus-Mat RDM Practice Dossier
 
 **Student:** [Your Name]
 
@@ -10,23 +10,23 @@
 
 ## About This Repository
 
-This repository contains the data dossier for the Sus-Mat NRT Data-to-Discovery micro-credential. It demonstrates research data management best practices applied to a PP/CaSO4 cold sintered composites dataset.
+Practice project for the Sus-Mat RDM micro-credential. Contains a synthetic PP/CaSO4 cold-sintering dataset with three deliberate problems (disconnected identifiers, a mixed-unit column, and missing values) for hands-on data management exercises.
 
 ## Repository Structure
 
 ```
 /raw/           — Original skeleton data files (read-only, never modify)
-/processed/     — Cleaned, unit-standardized data
-/analysis/      — Scripts, notebooks, intermediate outputs
-/sustainability/ — sustainability_manifest.json and energy/waste logs
+/processed/     — Cleaned, validated data
 ```
 
 ## Key Files
 
+- `README.md` — This file
 - `lab_notebook.md` — Structured lab notebook (ELN)
-- `schema.yaml` — Machine-actionable data schema with ontology mappings
-- `sustainability_manifest.json` — Environmental footprint record
-- `LICENSE.txt` — Data license
+- `/raw/` — Original skeleton data files (read-only, never modify)
+- `/processed/` — Cleaned, validated data
+
+You will create a data dictionary (in any format: YAML, CSV, or Markdown) in Lesson 4.
 
 ## Data Source
 

@@ -1,8 +1,8 @@
-# Lab Notebook — Sus-Mat NRT Training Dossier
+# Lab Notebook — [Your Project Name]
 
-**Author:** [Your Name] | **PSU ID:** [Your PSU ID]
-**GitHub:** https://github.com/[your-username]/susmat-dossier-[your-psu-id]
-**OSF:** (add in Module 3)
+**Author:** [Your Name] | **Institution ID:** [Your ID]
+**Repository:** [link to your repo]
+**Canonical data store:** (add once established)
 
 > **Standard:** Each entry should contain enough detail for someone
 > with similar training to reproduce what you did without asking you.

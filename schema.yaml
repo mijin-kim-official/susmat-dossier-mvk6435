@@ -1,14 +1,13 @@
 # Sus-Mat NRT Training Dossier — Data Schema
-# Complete this file in Module 4 (Schemas & Ontologies)
+# Complete this file in Lesson 4 (Define & Validate Your Data)
+# Format is flexible — YAML, CSV, or structured Markdown are all acceptable.
+# Each field needs: meaning, type, unit, missing-value convention, identifier role
 
 schema_version: "1.0"
 project: "Sus-Mat NRT Training Dossier"
 author: "[Your Name]"
 psu_id: "[Your PSU ID]"
-archetype: "polymer_composite"
 created: "[YYYY-MM-DD]"
 github_url: "https://github.com/[your-username]/susmat-dossier-[your-psu-id]"
-doi: "(add in Module 7)"
-license: "CC-BY-4.0"
 
-# Add project_structure and files sections in Module 4
+# Add project_structure and files sections in Lesson 4

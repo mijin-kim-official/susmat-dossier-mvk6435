@@ -1,8 +1,8 @@
 # Sus-Mat RDM Practice Dossier
 
-**Student:** [Your Name]
+**Student:** [Mijin Kim]
 
-**PSU ID:** [Your PSU ID]
+**PSU ID:** [mvk6435]
 
 **Program:** Sustainable Materials through Systems-Informed Thinking (Sus-Mat NRT)
 

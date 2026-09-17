@@ -33,6 +33,12 @@ You will create a data dictionary (in any format: YAML, CSV, or Markdown) in Les
 Skeleton training data based on cold-sintered PP/CaSO4 polymer-ceramic composites.
 Reference: Lai et al., "Upcycling plastic waste into fully recyclable composites through cold sintering," *Materials Horizons*, 2024, 11, 2718–2728. DOI: 10.1039/D3MH01976D
 
+## Storage & Continuity Plan
+**Canonical location:** [where the real copy lives, Penn State OneDrive, folder `SusMat/training-dataset/raw/`]
+**Access:** [I would access the canonical data using my Penn State institutional account. My PI would also be given access through their institutional account or shared-folder permission.]
+**Backup:** [All raw data, including large instrument outputs, would be backed up to a separate institutional research storage area. Updated after each major data-collection session, at least weekly during active experiments. I would verify that the backup complete successfully.]
+**Restore test:** [date performed, or date scheduled, and result, scheduled for Sep. 22]
+
 ---
 
 *This dossier was created as part of the [Sus-Mat NRT](https://susmat-nrt.web.app/) training program.*

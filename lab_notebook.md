@@ -78,7 +78,7 @@ Parent specimen: `MBC-24C30-01`
 Cycle-1 records: `MBC-24C30-01_C01_*`
 
 ### Status
-PLANNED — actual timestamps, measured values, deviations, and output-file locations will be added after the execution.
+PLANNED. actual timestamps, measured values, deviations, and output-file locations will be added after the execution.
 
 
 ---
